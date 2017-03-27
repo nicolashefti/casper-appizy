@@ -1,0 +1,24 @@
+{
+  "name": "casper-appizy",
+  "version": "1.0.0",
+  "description": "Integration tests",
+  "main": "index.js",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolashefti/casper-appizy.git"
+  },
+  "keywords": [
+    "casperjs",
+    "tests"
+  ],
+  "author": "Nicolas Hefti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolashefti/casper-appizy/issues"
+  },
+  "homepage": "https://github.com/nicolashefti/casper-appizy#readme"
+}
